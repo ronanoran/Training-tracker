@@ -697,8 +697,7 @@ export default function App() {
         <div style={{ maxWidth: 480, margin: "0 auto" }}>
           <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", marginBottom: 11 }}>
             <div>
-              <div style={{ fontSize: 9, color: C.muted, fontWeight: 700, textTransform: "uppercase", letterSpacing: 2.5, marginBottom: 3 }}>Training Tracker</div>
-              <div style={{ fontSize: 22, fontWeight: 900, color: C.text, fontFamily: "'Barlow Condensed',sans-serif", letterSpacing: 1, lineHeight: 1, textTransform: "uppercase" }}>Rugby & Run</div>
+              <div style={{ fontSize: 22, fontWeight: 900, color: C.text, fontFamily: "'Barlow Condensed',sans-serif", letterSpacing: 1, lineHeight: 1, textTransform: "uppercase" }}>Training Tracker</div>
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
               {/* AI Coach button */}
