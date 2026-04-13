@@ -88,7 +88,7 @@ const DEFAULT_WEEK_TEMPLATE = [
 // ─── Colors ────────────────────────────────────────────────────────────────
 const C = {
   bg: "#080c10", surface: "#0e1318", card: "#111820", border: "#1a2430", borderHi: "#243040",
-  text: "#dde6f0", muted: "#3d5060", dim: "#1a2830",
+  text: "#dde6f0", muted: "#7a9ab0", dim: "#1a2830",
   gym: { accent: "#4da6ff", light: "#091a2e" },
   rugby: { accent: "#ff8c3b", light: "#1e1000" },
   run: { accent: "#3dffa0", light: "#051a10" },
